@@ -1,0 +1,2 @@
+C:\Users\En_balor\OneDrive\문서\GitHub\sganew\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\En_balor\OneDrive\문서\GitHub\sganew\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
